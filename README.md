@@ -3,6 +3,9 @@ _India's First Robotic Band_
 # Abstract
 The idea of this project is to make the India's first ROBOTIC BAND.The team is working on this project for the last three years and each year team try to construct bot that is able to play a particular instrument.In the last two years three instrument flute,drums and keyboard has been completed,so this year we have  tried to make a bot that is able to play guitar.
 
+![bot1](https://user-images.githubusercontent.com/37136467/41505848-1a9ab348-722f-11e8-8612-65672746bbf3.JPG)
+
+
 # Team Members
 1. Avneesh Upadhyay
 2. Chirag Gupta
@@ -24,6 +27,8 @@ The idea of this project is to make the India's first ROBOTIC BAND.The team is w
 3. 10Amp Motor Drivers
 4. High Torque DC Motor 
 5. IR obstacle Detection Sensor
+![circuit](https://user-images.githubusercontent.com/37136467/41505857-6065d664-722f-11e8-8084-be17f3f6da4b.JPG)
+
 
 ## Mechanical Sructure
 It consist of two part:
@@ -41,6 +46,8 @@ The design consist of the 4 rectangular strips attached to the common cubical bl
 ### Rear Portion(Fret part)
 Initially 4 frets(Fret 2 to Fret 5) were chosen and each fret consist 6 strings so total 24 ,notes the team has tried to cover.With these 24 notes we are able to play major chords of the guitar (C major,G major,A minor, E major, A major,D etc and many more).
 For each note one linear actuator is used which is controlled with the help of motor drivers. Between linear actuator and string a see-saw structure has been constructed to press the corresponding string.
+![notes](https://user-images.githubusercontent.com/37136467/41505873-8ef7b650-722f-11e8-9167-9abb5a423093.jpg)
+
 
 ###  Final Changes and Modification in design
 The sturture became very sophisticated due to less space and more compnent, so we try to reduced our mechanical design .At the end we found out that with the help of just 10 notes of first four frets we are able to play 7  chords of the guitar and hence the covering of 24 notes is useless.

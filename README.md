@@ -46,7 +46,8 @@ For each note one linear actuator is used which is controlled with the help of m
 The sturture became very sophisticated due to less space and more compnent, so we try to reduced our mechanical design .At the end we found out that with the help of just 10 notes of first four frets we are able to play 7  chords of the guitar and hence the covering of 24 notes is useless.
 
  ## Working
- Chord has been pressed with the help of linear actutor that are controlled using motor drivers.The strumming portion is restricted to to and fro motion having feedback mechanism with the help of IR sensor to  avoid time delay in strumming and friction opposed on the pluck keys by the strings during playing.
+ Chords has been pressed with the help of linear actutor that are controlled using motor drivers.The strumming portion is restricted to single pattern having feedback mechanism with the help of IR sensor to  avoid time delay and friction opposed on the pluck keys by the strings.
+ 
  
  
 

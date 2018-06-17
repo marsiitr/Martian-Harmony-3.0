@@ -56,5 +56,6 @@ The sturture became very sophisticated due to less space and more compnent, so w
  - To increase the number of notes covered.
  - To do variation in struming pattern.
  - To play lead notes of the song.
-  ### For Videos[click here](https://drive.google.com/drive/folders/1WID6ml3QWSvtVuDsnx-lnMgWXt9H_xex?usp=sharing)
+  
+ For Videos [Click here](https://drive.google.com/drive/folders/1WID6ml3QWSvtVuDsnx-lnMgWXt9H_xex?usp=sharing)
   

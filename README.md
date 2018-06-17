@@ -6,7 +6,7 @@ The idea of this project is to make the India's first ROBOTIC BAND.The team is w
 # Team Members
 1. Avneesh Upadhyay
 2. Chirag Gupta
-3. Harsh Agarwal
+3. [Harsh Agarwal](https://github.com/harshagrawal18-iitr)
 4. Harshit Dwivedi
 5. Manas Gupta
 6. Samarth Gubrele

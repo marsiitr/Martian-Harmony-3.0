@@ -16,7 +16,7 @@ The idea of this project is to make the India's first ROBOTIC BAND.The team is w
 7. [Shubhanshu Agarwal](https://github.com/Shubhanshu07)     
 
 # Mentors
-1. Nabarun Pal
+1. [Nabarun Pal](https://github.com/palnabarun)
 2. Nikhil Kumar 
 3. Shivam Maloo
 4. Umesh Kumawat
@@ -56,12 +56,12 @@ The sturture became very sophisticated due to less space and more compnent, so w
  Chords has been pressed with the help of linear actutor that are controlled using motor drivers.The strumming portion is restricted to single pattern having feedback mechanism with the help of IR sensor to  avoid time delay and friction opposed on the pluck keys by the strings.
  # Limitations
  - At present we are able to cover only 10 notes. It is good if we are able to imcrese it.
- - Single strumming pattern can be done. We can't make changes in strummin pattern.
+ - Single strumming pattern can be done. We can't make changes in strumming pattern.
  - Current cumsumption is very high due to lineaar actuators.
  - Lead notes can't be played.
  # Future Improvemnts
  - To increase the number of notes covered.
- - To do variation in struming pattern.
+ - To do variation in strumming pattern.
  - To play lead notes of the song.
   
  For Videos [Click here](https://drive.google.com/drive/folders/1WID6ml3QWSvtVuDsnx-lnMgWXt9H_xex?usp=sharing)

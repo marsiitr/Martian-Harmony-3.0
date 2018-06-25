@@ -44,6 +44,6 @@ It is used to control the pressure of air coming from vacuum cleaner blown into 
   
    Make the circuits using relays and ULN such that each relay controls a solenoid.Connect all solenoids to relay so that relay work as a switch.Use motor drivers to drive the steppers.Male all connections to Arduino Mega.Power the circuits using 12V/5A adapters.Upload the files to Arduino and you are ready to rock.
    
-   **For Software related details read the Readme.md file in parent folder.**
+   
    ## Inference: 
    This is just one way of making a robotic keyboard.We also tried other ways like playing using servo motors, but servo motors are not as fast as solenoid valves and present some serious delays.Although we can produce similar(to the black keys) sounds using all the white keys but we are still working on the mechanism of playing the black keys. Enjoy the melodies till then.

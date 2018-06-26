@@ -61,9 +61,7 @@ The sturture became very sophisticated due to less space and more compnent, so w
  - Lead notes can't be played.
  # Future Improvemnts
  - To increase the number of notes covered.
- 
  - To do variation in strumming pattern.
-
  - To play lead notes of the song.
   
  For Videos [Click here](https://drive.google.com/drive/folders/1WID6ml3QWSvtVuDsnx-lnMgWXt9H_xex?usp=sharing)

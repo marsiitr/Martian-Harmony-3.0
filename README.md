@@ -59,7 +59,7 @@ The sturture became very sophisticated due to less space and more compnent, so w
  - Single strumming pattern can be done. We can't make changes in strumming pattern.
  - Current cumsumption is very high due to lineaar actuators.
  - Lead notes can't be played.
- # Future Improvemnts
+ # Future Improvements
  - To increase the number of notes covered.
  - To do variation in strumming pattern.
  - To play lead notes of the song.

@@ -10,7 +10,7 @@ The idea of this project is to make the India's first ROBOTIC BAND.The team is w
 1. [Avneesh Upadhyay](https://github.com/AvneeshIITR)
 2. Chirag Gupta
 3. [Harsh Agarwal](https://github.com/harshagrawal18-iitr)
-4. [Harshit Dwivedi](https://github.com/dwivediharshit)
+4. [Harshit Dwivedi](https://github.com/harshitiitr)
 5. [Manas Gupta](https://github.com/ManasGupta1998)   
 6. [Samarth Gubrele](https://github.com/Sam5cool) 
 7. [Shubhanshu Agarwal](https://github.com/Shubhanshu07)     
